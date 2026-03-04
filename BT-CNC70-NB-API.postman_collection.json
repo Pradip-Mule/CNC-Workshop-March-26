@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "ec05e1c1-35c3-4bd6-9b09-6cb93bf5d798",
-		"name": "CNC70-NB-API",
+		"name": "BT-CNC70-NB-API",
 		"description": "This postman collection provides the API requests and examples for the North Bound API supported by the CNC-CAT Application. Any OSS integration can use these APIs.All these APIs are accessible via Crossword API Gateway in the CNC CAT Application. Thee JWT Token authentication is required to access these APIs.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "18621295",
